@@ -1,2 +1,2 @@
-#GitHub Project
-This is my first repository GitHub
+# GitHub Project
+This is my first tutorial creating repository on GitHub
